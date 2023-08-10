@@ -18,4 +18,4 @@ I'm UpFault, a passionate developer skilled in a range of technologies.
 
 ---
 
-Feel free to connect with me on [Discord](@upfault) or check out my [Youtube](https://www.youtube.com/@UpFault).
+Feel free to connect with me on [Discord](https://discordapp.com/users/717423042111996015) or check out my [Youtube](https://www.youtube.com/@UpFault).
