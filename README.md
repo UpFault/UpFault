@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm UpFault, a passionate developer skilled in a range of technologies.
+I'm UpFault, a passionate developer skilled in a range of languages.
 
 ## 💻 Languages & Tools
 
