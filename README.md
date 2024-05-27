@@ -12,9 +12,9 @@ I'm UpFault, a passionate developer skilled in a range of languages.
 
 ## 🚀 Active Projects
 
-- **VelocityBridge** - VelocityBridge between Hypixel and the Velocity Discord Server
-- **VelocityAPI** - API for storing player data related to VelocityBridge
-- **VelocityVerification** - Verification bot for the Velocity Discord Server
+- **DisturbingBridge** - VelocityBridge between Hypixel and the Disturbing Discord Server
+- **DisturbingAPI** - API for storing player data related to DisturbingBridge
+- **DisturbingVerification** - Verification bot for the Disturbing Discord Server
 
 ---
 
